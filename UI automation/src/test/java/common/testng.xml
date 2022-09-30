@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteName">
+
+<!--  
+  <test name="TestScenario">
+	  	<groups>
+   			<dependencies> 
+   				<group depends-on= "Scenario1" name= "Scenario2"></group>
+   			   	<group depends-on= "Scenario2" name= "Scenario3"></group>		
+   			</dependencies>
+   		</groups>
+		<classes>
+			 <class name="TestScenario.Scenario1" />
+			<class name="TestScenario.Scenario2" />
+			<class name="TestScenario.Scenario3" />
+		</classes>
+	</test>	 
+</suite>
+
+
+ 
